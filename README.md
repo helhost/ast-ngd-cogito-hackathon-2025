@@ -1,6 +1,12 @@
 # ASTAR NGD COGITO INFORMATIONATHON 2025
 
-![Poster](./images/poster1.png)
+## Repository Structure
+
+- `solve_problem1/` – Code to train a model for the product recognition task.
+- `solve_problem2/` – Code and logic for receipt generation from video footage, using the model created in problem 1.
+- `INFORMATION/` – Original problem descriptions and guidelines
+- `Delivery/` – Final packaged solution for submission
+
 
 ## Who are we?
 
