@@ -1,8 +1,4 @@
 data
-out_data
-cropped_data
-cropped_testing
-cropped_training
-.DS_Store
-videos
-zip.zip
+out
+tmp
+__pycache__
